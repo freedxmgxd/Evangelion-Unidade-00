@@ -2,10 +2,15 @@
 
 ### Produto final: Foguete de Sondagem não guiada
 
+#### Sub equipes: Propulsão, Estrutura e Aerodinamica, Recuperação, Sistema de Telemetria(Eletronica e embarcados)
+
 ## Fase 1 = Teorica : 
 * Qual missão do foguete?  O que ele precisa fazer?
-* Qual a altitude ele pode chegar?
+* Qual a altitude maxima ele pode chegar?
 * Que tipo de carregamento ele precisa resistir?
+* Qual tipo de motor ele vai usar? 
+* Qual tipo de combustivel? Solido(mais facil) , liquido ou hibrido?
+  * Richard Nakka, referencia em motores a propulsão.
 * Fazer revisão bibliografica para resolver essa perguntas. Priorizando utilizar tecnicas que já foram comprovadas por outros autores. 
 * Criação de modelo através de calculos e simulações
 * Sempre levando em conta a integração.
