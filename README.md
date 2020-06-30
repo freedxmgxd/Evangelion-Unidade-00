@@ -10,7 +10,7 @@
 * Que tipo de carregamento ele precisa resistir?
 * Qual tipo de motor ele vai usar? 
 * Qual tipo de combustivel? Solido(mais facil) , liquido ou hibrido?
-  * Richard Nakka, referencia em motores a propulsão.
+  * [Richard Nakka, referencia em motores a propulsão.](http://www.nakka-rocketry.net/)
 * Fazer revisão bibliografica para resolver essa perguntas. Priorizando utilizar tecnicas que já foram comprovadas por outros autores. 
 * Criação de modelo através de calculos e simulações
 * Sempre levando em conta a integração.
