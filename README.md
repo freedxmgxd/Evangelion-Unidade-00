@@ -2,6 +2,10 @@
 
 ### Produto final: Foguete de Sondagem não guiada
 
+##### Competições: 
+* Latin American Space Challenge
+* Spaceport America Cup
+
 #### Sub equipes: Propulsão, Estrutura e Aerodinamica, Recuperação, Sistema de Telemetria(Eletronica e embarcados)
 
 ## Fase 1 = Teorica : 
