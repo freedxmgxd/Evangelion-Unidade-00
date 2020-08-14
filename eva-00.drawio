@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T20:31:42.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.206" etag="b1ARvAz0w8Z84W9srRqY" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T20:57:18.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.206" etag="_nKj5PYPPYsIBMum3uZS" version="13.6.2" type="github">
   <diagram id="41guQlqh2v2WvfY6evQr" name="Page-1">
     <mxGraphModel dx="827" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,18 +35,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-6" target="YylkgkOglykvxc9Hslgz-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="592" />
+              <mxPoint x="560" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-6" value="Calcular as dimensões ideias do paraquedas." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YylkgkOglykvxc9Hslgz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-7" target="YylkgkOglykvxc9Hslgz-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="510" />
-              <mxPoint x="720" y="460" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rFm5PoCtBt1_bLLXT2XU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-7" target="rFm5PoCtBt1_bLLXT2XU-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-7" value="Determinar quais grandezas serão medidas e quais sensores serão usados." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="470" width="120" height="80" as="geometry" />
@@ -72,8 +72,13 @@
         <mxCell id="YylkgkOglykvxc9Hslgz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-17" target="YylkgkOglykvxc9Hslgz-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YylkgkOglykvxc9Hslgz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-17" target="YylkgkOglykvxc9Hslgz-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rFm5PoCtBt1_bLLXT2XU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-17" target="YylkgkOglykvxc9Hslgz-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="428" />
+              <mxPoint x="710" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-17" value="Determinar as dimensões e design do motor." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="360" width="120" height="80" as="geometry" />
@@ -111,7 +116,23 @@
         <mxCell id="rFm5PoCtBt1_bLLXT2XU-2" value="Determinar os materiais usados." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rFm5PoCtBt1_bLLXT2XU-5" value="Desenvolver o protótipo da bacia de sensores.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rFm5PoCtBt1_bLLXT2XU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rFm5PoCtBt1_bLLXT2XU-5" target="YylkgkOglykvxc9Hslgz-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="482" />
+              <mxPoint x="710" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFm5PoCtBt1_bLLXT2XU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rFm5PoCtBt1_bLLXT2XU-5" target="YylkgkOglykvxc9Hslgz-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="538" />
+              <mxPoint x="560" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFm5PoCtBt1_bLLXT2XU-5" value="Desenvolver o protótipo de sensores e medição." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
