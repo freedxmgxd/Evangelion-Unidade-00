@@ -4,6 +4,9 @@
 ### Combustível: Sólido.
 ### Payload: 1,2kg.
 
+### Valores de ajuste:
+#### Massa sem combustivel: 7kg.
+
 ##### Competições: 
 * Cobruf
 * Latin American Space Challenge*
