@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T19:39:48.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.206" etag="Aqcro2_NasIJQagP-RLU" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T14:46:24.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.206" etag="Y6VZVuLeS20TudfWNE2k" version="13.6.3" type="github">
   <diagram id="41guQlqh2v2WvfY6evQr" name="Page-1">
     <mxGraphModel dx="827" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="YylkgkOglykvxc9Hslgz-13" value="Calcular quantidade de empuxo o motor tem que gerar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_NI3FDFZaoQsNDOGaaSM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-15" target="YylkgkOglykvxc9Hslgz-17">
+        <mxCell id="_NI3FDFZaoQsNDOGaaSM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-15" target="YylkgkOglykvxc9Hslgz-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-15" value="Determinar qual sera o combustível usado e como será implementado." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -77,7 +77,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NI3FDFZaoQsNDOGaaSM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-17" target="rFm5PoCtBt1_bLLXT2XU-2">
+        <mxCell id="_NI3FDFZaoQsNDOGaaSM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-17" target="rFm5PoCtBt1_bLLXT2XU-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-17" value="Determinar as dimensões e design do motor." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -89,10 +89,10 @@
         <mxCell id="YylkgkOglykvxc9Hslgz-19" value="Estruturar a melhor distribuição para os subsystems." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="200" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_NI3FDFZaoQsNDOGaaSM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-21" target="YylkgkOglykvxc9Hslgz-17">
+        <mxCell id="_NI3FDFZaoQsNDOGaaSM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-21" target="YylkgkOglykvxc9Hslgz-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YylkgkOglykvxc9Hslgz-21" value="Modelar a fuselagem." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YylkgkOglykvxc9Hslgz-21" value="Modelar e projetar couplings(conector entre os tubos de subsistemas)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-24" target="YylkgkOglykvxc9Hslgz-28" edge="1">
