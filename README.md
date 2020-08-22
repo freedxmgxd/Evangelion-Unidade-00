@@ -2,9 +2,10 @@
 
 ### Apogeu: 1.5 KM.
 ### Combustível: Sólido.
-### Payload: 1,2kg.
+### Payload: Massa: 1,2kg
+###          Volume: 10 cm x 10 cm x 20 cm (equivalente a CubeSat 2U) .
 
-### Valores de ajuste:
+### Valores Provisórios:
 #### Massa sem combustivel: 7kg.
 
 ##### Competições: 
