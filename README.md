@@ -1,4 +1,8 @@
 # Evangelion-Unidade-00
+As Boas Novas que simbolizam a visão da nova era de foguetes
+
+O EVA-00 é nosso foguete-prototipo que tem com o intuito o constante desenvolvimento, aprimoramento e atualização, o qual servirá de projeto base para construção dos eventuais foguetes voltados para missões e competições que a NERV adotarem.
+Alinhado com o objetivo da NERV, projetar e desenvolver os EVAs tem como intuito ser a forma de nossos membros se aproximarem da ciência de foguete e ascenderam a sua paixão pela exploração espacial. 
 
 ### Apogeu: 1.5 KM.
 ### Combustível: Sólido.
