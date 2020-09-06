@@ -37,3 +37,7 @@ Alinhado com o objetivo da NERV, projetar e desenvolver os EVAs tem como intuito
 * Os prazos devem ser respeitados. Caso algo atrase deve ser comunicado e solucionado mais rápido possível.
 * Se uma abordagem não estiver agindo como esperado, deve ser abortada e substituído mais rápido possível.
 * As medidas de seguranças não são opcionais. E por tanto deve-se sempre estar atento a elas e ao seu cumprimento.
+
+### Banco de Ideias
+
+* Criar uma versão em codigo C++ (ou outra linguagem) das planilhas e softwares do Nakka.
