@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T20:36:00.762Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 OPR/71.0.3770.148" etag="43WLkcbG9_M87h7rCu02" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T20:36:47.636Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 OPR/71.0.3770.148" etag="jrmX3GQhjJvREDR059-U" version="13.7.5" type="github">
   <diagram id="41guQlqh2v2WvfY6evQr" name="Page-1">
     <mxGraphModel dx="1068" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,12 +46,12 @@
         <mxCell id="YylkgkOglykvxc9Hslgz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-8" target="YylkgkOglykvxc9Hslgz-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1100" y="570" />
+              <mxPoint x="1100" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-8" value="Desenvolver o acionamento do sistema de ejeção do paraquedas." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SEQa_lLu5ltQCcDEkVl0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YylkgkOglykvxc9Hslgz-13" target="YylkgkOglykvxc9Hslgz-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,16 +105,21 @@
         <mxCell id="YylkgkOglykvxc9Hslgz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="iwDd07PAolmuR01AQG8s-1" target="YylkgkOglykvxc9Hslgz-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iwDd07PAolmuR01AQG8s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-32" target="YylkgkOglykvxc9Hslgz-8">
+        <mxCell id="iwDd07PAolmuR01AQG8s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-32" target="iwDd07PAolmuR01AQG8s-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="620" />
-              <mxPoint x="580" y="570" />
+              <mxPoint x="550" y="620" />
+              <mxPoint x="550" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwDd07PAolmuR01AQG8s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-32" target="iwDd07PAolmuR01AQG8s-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iwDd07PAolmuR01AQG8s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YylkgkOglykvxc9Hslgz-32" target="YylkgkOglykvxc9Hslgz-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="592" />
+              <mxPoint x="580" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YylkgkOglykvxc9Hslgz-32" value="Projetar o sistema de ejeção e pistão." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="580" width="120" height="80" as="geometry" />
@@ -137,7 +142,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="538" />
-              <mxPoint x="580" y="570" />
+              <mxPoint x="580" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
