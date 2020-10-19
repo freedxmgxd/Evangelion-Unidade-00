@@ -10,7 +10,7 @@ Alinhado com o objetivo da NERV, projetar e desenvolver os EVAs tem como intuito
 ###          Volume: 10 cm x 10 cm x 20 cm (equivalente a CubeSat 2U) .
 
 ### Valores Provisórios:
-#### Massa sem combustivel: 7kg.
+#### Massa sem combustivel: 8.5kg.
 
 ##### Competições: 
 * Cobruf
